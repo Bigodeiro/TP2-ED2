@@ -34,17 +34,11 @@ void RetiraMin(TipoArea *Area, TipoRegistro *R, int *NRArea);
 
 void Particao(FILE **ArqLi, FILE **ArqEi, FILE **ArqLEs, TipoArea Area, int Esq, int Dir, int *i, int *j, Dados * Dados);
 
-//HeapSort:
-
-// faz a comparacao para ver se registro1 > registro2
-int compare(RegistroSubstituicao registro1, RegistroSubstituicao t2, Dados *Dados);
-
 //QuickSort Interno:
 
 void trocarPosicao(TipoRegistro* registros, int * i, int * j);
 
 void quicksortInterno(TipoRegistro * registros, int inicio, int fim, Dados *Dados);
 
-void quicksortInterno_SelecaoSubstituicao(RegistroSubstituicao * registros, int inicio, int fim, Dados *Dados);
 
 #endif

@@ -2,6 +2,8 @@
   "files.associations": {
     "estruturas.h": "c",
     "funcoesregistro.h": "c",
-    "funcoesordenacao.h": "c"
+    "funcoesordenacao.h": "c",
+    "quicksort.h": "c",
+    "area.h": "c"
   }
 }

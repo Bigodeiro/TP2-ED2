@@ -33,23 +33,23 @@ typedef struct
 // Estrutura para armazenar os dados de acesso ao arquivo
 typedef struct
 {
-	long num_leituras;
-	long num_escritas;
-	long num_comparacoes;
+	int num_leituras;
+	int num_escritas;
+	int num_comparacoes;
+
+	int num_LeituraBinTxt;
+	int num_EscritaBinTxt;
+
+	int num_LeituraGeracaoBlocos;
+	int num_EscritaGeracaoBlocos;
+
+	int num_ComparacaoGeracaoBlocos;
+
+	int comparacoesNotas;
 
 	clock_t tempoInicio;
 	clock_t tempoFim;
 } AcessoArquivo;
-
-// Registro que irá ser utilizado no quicksort interno
-typedef struct
-{
-	TipoRegistro registro;
-	bool substituir; // Indica se o registro foi marcado para ser substituido
-} RegistroSubstituicao;
-
-
-
 typedef struct
 {
 	AcessoArquivo acessos;
@@ -61,7 +61,5 @@ typedef struct
 } Dados;
 
 Dados inicializaDados();
-// void gerarArquivoCopia(Dados *Dados);
-// void binarioParaTXT_printarDados(Dados *Dados);
 
 #endif

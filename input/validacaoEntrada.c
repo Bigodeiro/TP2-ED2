@@ -63,8 +63,6 @@ int validacaoEntrada(int argc, char **argv, Dados * Dados)
     Dados->metodo = metodo;
     Dados->situacao = situacao;
     Dados->imprimir = imprimir;
-    // DadosnomeArquivo = "saida.txt";
-    // Dados->acessos = acessos;
 
     return dadosValidados;
 }

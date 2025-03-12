@@ -3,21 +3,26 @@
 
 void quickSort(Dados *Dados)
 {
-
     FILE *ArqLi = fopen(Dados->nomeArquivo, "rb+");
+
+    
     if (ArqLi == NULL)
     {
         perror("Error opening file for reading");
         exit(EXIT_FAILURE);
     }
+
     FILE *ArqEi = fopen(Dados->nomeArquivo, "rb+");
+
     if (ArqEi == NULL)
     {
         perror("Error opening file for reading");
         fclose(ArqLi);
         exit(EXIT_FAILURE);
     }
+
     FILE *ArqLEs = fopen(Dados->nomeArquivo, "rb+");
+
     if (ArqLEs == NULL)
     {
         perror("Error opening file for reading");
@@ -26,8 +31,6 @@ void quickSort(Dados *Dados)
         exit(EXIT_FAILURE);
     }
 
-    TipoArea Area;
-    inicializaArea(&Area);
     QuicksortExterno(&ArqLi, &ArqEi, &ArqLEs, 1, Dados->quantidade, Dados);
 
     fclose(ArqLi);
@@ -211,28 +214,6 @@ void Particao(FILE **ArqLi, FILE **ArqEi, FILE **ArqLEs, TipoArea Area, int Esq,
     }
 }
 
-// funcao para comparacao de dois registros, levando em conta sua marcacao e sua nota
-
-int compare(const RegistroSubstituicao registro1, const RegistroSubstituicao registro2, Dados *Dados)
-{
-    // retornos: 1 = registro1 > registro2, 0 = registro1 <= registro2
-
-    if (registro1.substituir == registro2.substituir)
-    {
-        Dados->acessos.num_comparacoes++;
-
-        if (registro1.registro.nota > registro2.registro.nota)
-            return 1;
-        else
-            return 0;
-    }
-    else if (registro1.substituir && !registro2.substituir)
-        return 1;
-
-    // caso em que o primeiro nao e marcado, e o segundo e marcado
-    return 0;
-}
-
 // QuickSort Interno:
 
 void trocarPosicao(TipoRegistro *registro, int *i, int *j)
@@ -246,18 +227,7 @@ void trocarPosicao(TipoRegistro *registro, int *i, int *j)
     *j -= 1;
 }
 
-void trocarPosicao2(RegistroSubstituicao *registros, int *i, int *j)
-{
-    RegistroSubstituicao auxiliar;
-
-    auxiliar = registros[*i];
-    registros[*i] = registros[*j];
-    registros[*j] = auxiliar;
-    *i += 1;
-    *j -= 1;
-}
-
-// quickSort utilizado na geracao de blocos por ordenacao
+// QuickSort utilizado na geracao de blocos por ordenacao
 void quicksortInterno(TipoRegistro *registro, int inicio, int fim, Dados *Dados)
 {
     int i, j;
@@ -292,35 +262,4 @@ void quicksortInterno(TipoRegistro *registro, int inicio, int fim, Dados *Dados)
 
     if (i < fim)
         quicksortInterno(registro, i, fim, Dados);
-}
-
-// quickSort utilizado na geracao de blocos utilizando selecao por substituicao
-void quicksortInterno_SelecaoSubstituicao(RegistroSubstituicao *registros, int inicio, int fim, Dados *Dados)
-{
-    int i, j;
-    RegistroSubstituicao pivo;
-
-    i = inicio;
-    j = fim;
-    pivo = registros[(inicio + fim) / 2];
-
-    while (i <= j)
-    {
-        // enquanto registros[i] < pivo
-        while (compare(pivo, registros[i], Dados) && i < fim)
-            i++;
-
-        // enquanto registros[j] > pivo
-        while (compare(registros[j], pivo, Dados) && j > inicio)
-            j--;
-
-        if (i <= j)
-            trocarPosicao2(registros, &i, &j);
-    }
-
-    if (j > inicio)
-        quicksortInterno_SelecaoSubstituicao(registros, inicio, j, Dados);
-
-    if (i < fim)
-        quicksortInterno_SelecaoSubstituicao(registros, i, fim, Dados);
 }
