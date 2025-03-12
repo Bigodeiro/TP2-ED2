@@ -1,7 +1,7 @@
 #ifndef AREA_H
 #define AREA_H
 
-#define TAMAREA  20
+#define TAMAREA  10
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "estruturas.h": "c",
+    "funcoesregistro.h": "c",
+    "funcoesordenacao.h": "c"
+  }
+}

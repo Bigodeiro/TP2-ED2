@@ -13,8 +13,10 @@ OBJS = $(OBJ)/main.o \
        $(OBJ)/fMaisUm.o \
        $(OBJ)/doisF.o \
        $(OBJ)/validacaoEntrada.o \
-	   $(OBJ)/area.o
-
+	   $(OBJ)/area.o \
+	   $(OBJ)/funcoesRegistro.o \
+	   $(OBJ)/funcoesOrdenacao.o 
+	  
 # Main target
 all: $(EXEC)
 
@@ -31,6 +33,12 @@ $(OBJ)/main.o: main.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
 $(OBJ)/validacaoEntrada.o: $(INPUT)/validacaoEntrada.c $(INPUT)/validacaoEntrada.h
+	$(CC) $(CFLAGS) -c $< -o $@
+
+$(OBJ)/funcoesRegistro.o: funcoesRegistro.c funcoesRegistro.h
+	$(CC) $(CFLAGS) -c $< -o $@
+
+$(OBJ)/funcoesOrdenacao.o: funcoesOrdenacao.c funcoesOrdenacao.h
 	$(CC) $(CFLAGS) -c $< -o $@
 
 
