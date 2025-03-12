@@ -59,12 +59,25 @@ void gerarArquivoEntrada(Dados *dados)
 
     // Escrevendo os n primeiros dados no arquivo de destino
     FILE *novoArquivo = fopen(arquivoDestino, "wb+");
+    if (novoArquivo == NULL) {
+        perror("Error creating destination file");
+        fclose(arquivoEntrada);
+        free(registros);
+        exit(EXIT_FAILURE);
+    }
+
     fwrite(registros, sizeof(TipoRegistro), dados->quantidade, novoArquivo);
     dados->acessos.num_escritas += 1;
 
     fclose(arquivoEntrada);
     fclose(novoArquivo);
     free(registros);
+
+    // Verifica a criação do arquivo
+    if (arquivoDestino == NULL) {
+        printf("Erro ao criar o arquivo de destino\n");
+        exit(1);
+    }
 }
 
 void transformarArquivoBinarioParaTxt_ImprimirDados(Dados *dados)

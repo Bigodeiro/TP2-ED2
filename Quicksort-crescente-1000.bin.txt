@@ -1,0 +1,1000 @@
+361852   0.00  BA  ILHEUS                                              ADMINISTRACAO               
+330910   0.00  BA  ILHEUS                                              ADMINISTRACAO               
+429990   0.00  RS  NOVO HAMBURGO                                       ADMINISTRACAO               
+330719   0.00  RS  NOVO HAMBURGO                                       ADMINISTRACAO               
+49408    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+185868   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+366186   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+317237   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+94327    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+220576   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+291662   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+253198   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+421326   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+413387   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+378016   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+456322   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+248399   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+28231    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+338089   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+58475    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+233178   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+194413   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+239090   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+387544   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+466804   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+297649   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+11108    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+336542   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+61017    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+448415   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+123568   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+229886   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+31173    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+34738    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+312305   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+128011   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+90387    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+30604    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+172468   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+370471   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+188096   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+171700   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+145949   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+436673   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+144684   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+49645    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+210985   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+102536   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+286816   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+218983   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+267348   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+64402    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+19276    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+271145   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+255639   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+89352    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+170359   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+409538   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+165800   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+86869    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+248826   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+330058   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+263441   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+185896   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+380285   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+243049   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+379313   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+400824   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+124693   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+344608   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+43547    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+422849   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+419117   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+398709   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+81505    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+286491   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+414540   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+289398   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+99434    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+348866   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+123028   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+348195   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+166580   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+106771   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+452568   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+282620   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+222162   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+448070   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+134203   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+288506   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+2226     0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+368841   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+143792   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+467477   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+221832   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+189723   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+337057   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+252734   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+140886   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+467501   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+224818   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+137013   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+219250   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+435744   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+422078   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+269152   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+368673   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+218303   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+411589   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+363806   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+124918   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+422296   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+125366   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+191889   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+337530   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+383933   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+22347    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+220581   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+251449   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+230584   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+36916    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+159786   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+395410   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+185544   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+203028   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+409456   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+463010   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+50143    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+11334    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+276999   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+199545   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+196390   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+406453   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+381569   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+177686   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+59378    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+216647   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+225357   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+231586   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+154154   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+156617   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+306354   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+271759   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+185747   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+11717    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+165933   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+158928   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+47841    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+159431   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+102644   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+438809   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+309966   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+321846   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+163924   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+221414   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+310728   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+83147    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+167499   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+308954   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+247616   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+439214   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+40553    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+94531    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+44465    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+133683   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+137043   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+255580   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+347131   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+107372   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+63976    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+335521   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+66221    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+114635   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+91762    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+277877   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+458713   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+284634   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+28482    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+156288   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+112700   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+145567   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+294493   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+332015   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+231253   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+148192   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+265693   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+297469   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+236208   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+257438   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+138355   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+48487    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+322637   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+365065   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+122713   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+161477   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+84129    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+433166   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+272679   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+278846   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+463946   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+285077   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+11357    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+295245   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+99567    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+407578   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+157901   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+85180    0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+227577   0.00  SP  SAO PAULO                                           ADMINISTRACAO               
+197235   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+149734   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+24901    0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+158029   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+225561   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+228086   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+357968   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+309407   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+162788   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+276095   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+447330   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+229334   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+28986    0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+67544    0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+305982   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+8488     0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+314942   0.00  RS  URUGUAIANA                                          ADMINISTRACAO               
+47463    0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+377123   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+195010   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+324742   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+445595   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+449616   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+313812   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+414216   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+136162   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+215968   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+23037    0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+467889   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+149892   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+402525   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+17033    0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+250832   0.00  RS  PORTO ALEGRE                                        ADMINISTRACAO               
+202788   0.00  RS  CASCA                                               ADMINISTRACAO               
+255034   0.00  RS  CARAZINHO                                           ADMINISTRACAO               
+237876   0.00  RS  CARAZINHO                                           ADMINISTRACAO               
+195273   0.00  RS  CASCA                                               ADMINISTRACAO               
+43293    0.00  RS  CASCA                                               ADMINISTRACAO               
+180946   0.00  RS  CARAZINHO                                           ADMINISTRACAO               
+127152   0.00  RS  PASSO FUNDO                                         ADMINISTRACAO               
+314093   0.00  RS  CASCA                                               ADMINISTRACAO               
+386907   0.00  RS  CARAZINHO                                           ADMINISTRACAO               
+72336    0.00  RS  CASCA                                               ADMINISTRACAO               
+143954   0.00  RS  CARAZINHO                                           ADMINISTRACAO               
+233365   0.00  RS  PASSO FUNDO                                         ADMINISTRACAO               
+275174   0.00  RS  CASCA                                               ADMINISTRACAO               
+59207    0.00  RS  PASSO FUNDO                                         ADMINISTRACAO               
+442402   0.00  RS  CASCA                                               ADMINISTRACAO               
+460079   0.00  RS  CARAZINHO                                           ADMINISTRACAO               
+331163   0.00  RS  PASSO FUNDO                                         ADMINISTRACAO               
+52043    0.00  RS  CASCA                                               ADMINISTRACAO               
+367728   0.00  RS  CARAZINHO                                           ADMINISTRACAO               
+200461   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+305701   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+331112   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+469713   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+307350   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+331399   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+438049   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+314159   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+35131    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+81553    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+214085   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+38618    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+63308    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+125113   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+413230   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+71173    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+198250   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+227672   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+238955   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+409875   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+201409   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+144316   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+170268   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+429879   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+403963   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+180631   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+77529    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+448341   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+212758   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+57605    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+315747   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+233312   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+142958   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+353582   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+35548    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+253920   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+325916   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+412975   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+12770    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+237157   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+282516   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+340831   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+153325   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+438026   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+268684   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+369131   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+163943   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+173387   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+169839   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+156770   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+427572   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+65770    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+365660   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+266566   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+175883   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+13656    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+55059    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+384548   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+250748   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+68488    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+416039   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+442615   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+345717   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+461406   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+456280   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+450352   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+82221    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+352339   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+295348   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+471268   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+282321   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+358783   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+234932   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+163893   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+174000   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+144096   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+463944   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+53755    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+421689   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+284193   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+427928   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+456145   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+80001    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+287396   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+326772   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+243372   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+467360   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+133822   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+218519   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+111154   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+365958   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+440060   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+389798   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+360049   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+447501   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+93913    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+318166   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+56289    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+18655    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+27226    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+155744   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+450527   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+348057   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+197197   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+126399   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+50837    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+295055   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+324619   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+376303   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+7343     0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+419445   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+324099   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+94049    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+145591   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+435983   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+207163   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+14586    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+331175   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+209234   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+390566   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+312052   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+382096   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+461043   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+55426    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+49465    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+302456   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+235294   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+30571    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+96775    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+420050   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+383349   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+348131   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+167966   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+300053   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+122681   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+344250   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+324946   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+206869   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+226331   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+428390   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+436328   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+16158    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+105825   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+347891   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+191260   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+148437   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+348445   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+460031   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+266190   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+470171   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+236059   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+22676    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+335784   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+443550   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+241665   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+106132   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+37583    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+117727   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+386753   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+9755     0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+145747   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+51050    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+184035   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+138713   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+447371   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+381096   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+54288    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+237089   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+209630   0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+41693    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+30133    0.00  SP  CAMPINAS                                            ADMINISTRACAO               
+297031   0.00  RS  PELOTAS                                             ADMINISTRACAO               
+264298   0.00  RS  PELOTAS                                             ADMINISTRACAO               
+439473   0.00  RS  PELOTAS                                             ADMINISTRACAO               
+241932   0.00  RS  PELOTAS                                             ADMINISTRACAO               
+12205    0.00  RS  PELOTAS                                             ADMINISTRACAO               
+58360    0.00  RS  PELOTAS                                             ADMINISTRACAO               
+87276    0.00  MG  UBERLANDIA                                          ADMINISTRACAO               
+12117    0.00  MG  UBERLANDIA                                          ADMINISTRACAO               
+103465   0.00  MG  UBERLANDIA                                          ADMINISTRACAO               
+241905   0.00  MG  UBERLANDIA                                          ADMINISTRACAO               
+180885   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+304892   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+143866   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+262627   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+429011   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+444111   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+392556   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+137450   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+284472   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+102110   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+121622   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+84491    0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+26069    0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+190643   0.00  RJ  RIO DE JANEIRO                                      ADMINISTRACAO               
+209043   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+99533    0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+202461   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+51872    0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+144568   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+261145   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+94290    0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+217660   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+25359    0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+283460   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+242615   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+167410   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+403637   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+42296    0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+398093   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+57127    0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+262801   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+161320   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+282465   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+9840     0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+324175   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+55711    0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+405513   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+370734   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+136247   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+249829   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+95068    0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+239603   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+248567   0.00  RJ  PETROPOLIS                                          ADMINISTRACAO               
+238239   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+372532   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+209058   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+266767   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+126076   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+451861   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+93259    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+231043   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+177154   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+134951   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+352484   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+23146    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+54354    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+12835    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+439854   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+211389   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+253672   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+447014   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+42702    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+421181   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+130986   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+331793   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+461817   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+300973   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+100397   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+281508   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+297602   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+171951   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+318275   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+380681   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+123482   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+464288   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+318180   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+207589   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+302852   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+330284   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+149142   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+470987   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+140653   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+282341   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+185988   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+326093   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+242643   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+412272   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+144260   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+371436   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+284799   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+141106   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+401840   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+344897   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+26172    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+443194   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+373745   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+158654   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+234040   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+12496    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+285666   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+43910    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+283255   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+275545   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+280789   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+275068   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+213108   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+193299   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+180876   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+328132   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+169328   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+22586    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+273040   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+27375    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+158054   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+193339   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+398282   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+136069   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+238444   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+244690   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+318217   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+730      0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+198832   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+87923    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+203683   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+338306   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+86758    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+164945   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+45534    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+239891   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+436035   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+436540   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+278665   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+306477   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+217953   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+387958   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+80878    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+264113   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+244767   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+290946   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+327022   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+443627   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+84998    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+401024   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+206257   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+219796   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+63300    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+466766   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+360284   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+384676   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+359341   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+429583   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+91014    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+446838   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+298172   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+278598   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+32547    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+359797   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+51300    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+97799    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+51774    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+420233   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+447042   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+398637   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+122774   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+79515    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+41122    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+318878   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+341799   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+12461    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+269265   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+191546   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+312456   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+219822   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+294892   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+331705   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+104906   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+199305   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+250435   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+48415    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+50484    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+132117   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+188655   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+59797    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+459815   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+314533   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+186252   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+321993   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+131350   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+432649   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+271289   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+174730   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+237648   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+458589   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+257671   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+245264   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+449285   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+76343    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+53513    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+109720   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+450326   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+177160   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+324119   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+185155   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+303334   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+456204   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+97209    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+405534   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+49271    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+262874   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+326121   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+319988   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+301141   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+60603    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+261497   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+22746    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+288232   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+41319    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+403365   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+99934    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+174386   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+22951    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+127193   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+432502   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+220938   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+79203    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+310165   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+383580   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+88714    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+345109   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+166240   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+125275   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+364201   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+143366   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+111977   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+373171   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+288483   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+179342   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+160855   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+331875   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+192985   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+14397    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+249236   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+405697   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+137960   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+377717   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+124707   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+118275   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+95897    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+280192   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+257719   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+410719   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+7965     0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+343975   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+229709   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+205130   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+28610    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+204460   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+230652   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+313003   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+284321   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+299961   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+24495    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+401407   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+138850   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+70456    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+268350   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+189656   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+310273   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+74643    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+37526    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+216061   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+79584    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+116421   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+219970   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+307829   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+10413    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+361975   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+137559   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+224212   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+463321   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+315588   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+238613   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+421199   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+73039    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+174623   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+253738   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+253471   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+458322   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+16246    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+51676    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+87465    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+469544   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+116501   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+63937    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+93408    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+170450   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+64371    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+469564   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+6846     0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+369696   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+446157   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+138600   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+128646   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+29796    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+34518    0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+119932   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+128924   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+102232   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+444839   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+321754   0.00  RS  SAO LEOPOLDO                                        ADMINISTRACAO               
+409056   0.00  RS  VACARIA                                             ADMINISTRACAO               
+397478   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+6963     0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+336811   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+415666   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+110865   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+229652   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+299403   0.00  RS  BENTO GONCALVES                                     ADMINISTRACAO               
+67607    0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+109711   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+127919   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+95843    0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+193416   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+175382   0.00  RS  VACARIA                                             ADMINISTRACAO               
+285143   0.00  RS  BENTO GONCALVES                                     ADMINISTRACAO               
+231268   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+429997   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+151950   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+292275   0.00  RS  NOVA PRATA                                          ADMINISTRACAO               
+437391   0.00  RS  BENTO GONCALVES                                     ADMINISTRACAO               
+385300   0.00  RS  BENTO GONCALVES                                     ADMINISTRACAO               
+347338   0.00  RS  VACARIA                                             ADMINISTRACAO               
+299388   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+33145    0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+446072   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+26283    0.00  RS  VACARIA                                             ADMINISTRACAO               
+24339    0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+211007   0.00  RS  CANELA                                              ADMINISTRACAO               
+370242   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+119508   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+396719   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+180497   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+212382   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+218392   0.00  RS  CAXIAS DO SUL                                       ADMINISTRACAO               
+65919    0.00  RS  BENTO GONCALVES                                     ADMINISTRACAO               
+137650   0.00  PE  RECIFE                                              ADMINISTRACAO               
+226263   0.00  PE  RECIFE                                              ADMINISTRACAO               
+48615    0.00  PE  RECIFE                                              ADMINISTRACAO               
+209134   0.00  PE  RECIFE                                              ADMINISTRACAO               
+72104    0.00  PE  RECIFE                                              ADMINISTRACAO               
+378136   0.00  PE  RECIFE                                              ADMINISTRACAO               
+37750    0.00  PE  RECIFE                                              ADMINISTRACAO               
+428274   0.00  PE  RECIFE                                              ADMINISTRACAO               
+213233   0.00  PE  RECIFE                                              ADMINISTRACAO               
+252913   0.00  PE  RECIFE                                              ADMINISTRACAO               
+283096   0.00  PE  RECIFE                                              ADMINISTRACAO               
+267687   0.00  PE  RECIFE                                              ADMINISTRACAO               
+250179   0.00  PE  RECIFE                                              ADMINISTRACAO               
+433763   0.00  PE  RECIFE                                              ADMINISTRACAO               
+16051    0.00  PE  RECIFE                                              ADMINISTRACAO               
+15595    0.00  PE  RECIFE                                              ADMINISTRACAO               
+455344   0.00  PE  RECIFE                                              ADMINISTRACAO               
+455213   0.00  PE  RECIFE                                              ADMINISTRACAO               
+241030   0.00  PE  RECIFE                                              ADMINISTRACAO               
+423760   0.00  PE  RECIFE                                              ADMINISTRACAO               
+133082   0.00  PE  RECIFE                                              ADMINISTRACAO               
+2437     0.00  PE  RECIFE                                              ADMINISTRACAO               
+233241   0.00  PE  RECIFE                                              ADMINISTRACAO               
+152628   0.00  PE  RECIFE                                              ADMINISTRACAO               
+237271   0.00  PE  RECIFE                                              ADMINISTRACAO               
+257859   0.00  PE  RECIFE                                              ADMINISTRACAO               
+58716    0.00  PE  RECIFE                                              ADMINISTRACAO               
+149759   0.00  PE  RECIFE                                              ADMINISTRACAO               
+265632   0.00  PE  RECIFE                                              ADMINISTRACAO               
+240109   0.00  PE  RECIFE                                              ADMINISTRACAO               
+295081   0.00  PE  RECIFE                                              ADMINISTRACAO               
+440316   0.00  PE  RECIFE                                              ADMINISTRACAO               
+103560   0.00  PE  RECIFE                                              ADMINISTRACAO               
+174780   0.00  PE  RECIFE                                              ADMINISTRACAO               
+192542   0.00  PE  RECIFE                                              ADMINISTRACAO               
+71672    0.00  PE  RECIFE                                              ADMINISTRACAO               
+110798   0.00  PE  RECIFE                                              ADMINISTRACAO               
+1257     0.00  PE  RECIFE                                              ADMINISTRACAO               
+157218   0.00  PE  RECIFE                                              ADMINISTRACAO               
+96100    0.00  PE  RECIFE                                              ADMINISTRACAO               
+224874   0.00  PE  RECIFE                                              ADMINISTRACAO               
+55550    0.00  PE  RECIFE                                              ADMINISTRACAO               
+232724   0.00  PE  RECIFE                                              ADMINISTRACAO               
+40419    0.00  PE  RECIFE                                              ADMINISTRACAO               
+37605    0.00  PE  RECIFE                                              ADMINISTRACAO               
+96514    0.00  PE  RECIFE                                              ADMINISTRACAO               
+110506   0.00  PE  RECIFE                                              ADMINISTRACAO               
+256548   0.00  PE  RECIFE                                              ADMINISTRACAO               
+260650   0.00  PE  RECIFE                                              ADMINISTRACAO               
+14370    0.00  PE  RECIFE                                              ADMINISTRACAO               
+264548   0.00  PE  RECIFE                                              ADMINISTRACAO               
+424173   0.00  PE  RECIFE                                              ADMINISTRACAO               
+443653   0.00  PE  RECIFE                                              ADMINISTRACAO               
+350293   0.00  PE  RECIFE                                              ADMINISTRACAO               
+140529   0.00  PE  RECIFE                                              ADMINISTRACAO               
+274653   0.00  PE  RECIFE                                              ADMINISTRACAO               
+86932    0.00  PE  RECIFE                                              ADMINISTRACAO               
+5961     0.00  PE  RECIFE                                              ADMINISTRACAO               
+357683   0.00  PE  RECIFE                                              ADMINISTRACAO               
+286443   0.00  PE  RECIFE                                              ADMINISTRACAO               
+284417   0.00  PE  RECIFE                                              ADMINISTRACAO               
+366672   0.00  PE  RECIFE                                              ADMINISTRACAO               
+416114   0.00  PE  RECIFE                                              ADMINISTRACAO               
+86362    0.00  PE  RECIFE                                              ADMINISTRACAO               
+349488   0.00  PE  RECIFE                                              ADMINISTRACAO               
+432568   0.00  PE  RECIFE                                              ADMINISTRACAO               
+376924   0.00  PE  RECIFE                                              ADMINISTRACAO               
+195789   0.00  PE  RECIFE                                              ADMINISTRACAO               
+22215    0.00  PE  RECIFE                                              ADMINISTRACAO               
+149872   0.00  PE  RECIFE                                              ADMINISTRACAO               
+165305   0.00  PE  RECIFE                                              ADMINISTRACAO               
+1310     0.00  PE  RECIFE                                              ADMINISTRACAO               
+24144    0.00  PE  RECIFE                                              ADMINISTRACAO               
+455706   0.00  PE  RECIFE                                              ADMINISTRACAO               
+446097   0.00  PE  RECIFE                                              ADMINISTRACAO               
+276860   0.00  PE  RECIFE                                              ADMINISTRACAO               
+357839   0.00  PE  RECIFE                                              ADMINISTRACAO               
+421248   0.00  PE  RECIFE                                              ADMINISTRACAO               
+109360   0.00  PE  RECIFE                                              ADMINISTRACAO               
+66694    0.00  PE  RECIFE                                              ADMINISTRACAO               
+362388   0.00  PE  RECIFE                                              ADMINISTRACAO               
+454546   0.00  PE  RECIFE                                              ADMINISTRACAO               
+172886   0.00  PE  RECIFE                                              ADMINISTRACAO               
+131341   0.00  PE  RECIFE                                              ADMINISTRACAO               
+391819   0.00  PE  RECIFE                                              ADMINISTRACAO               
+233161   0.00  PE  RECIFE                                              ADMINISTRACAO               
+73289    0.00  PE  RECIFE                                              ADMINISTRACAO               
+279070   0.00  PE  RECIFE                                              ADMINISTRACAO               
+32223    0.00  PE  RECIFE                                              ADMINISTRACAO               
+345514   0.00  PE  RECIFE                                              ADMINISTRACAO               
+47752    0.00  PE  RECIFE                                              ADMINISTRACAO               
+14049    0.00  PE  RECIFE                                              ADMINISTRACAO               
+288404   0.00  PE  RECIFE                                              ADMINISTRACAO               
+341522   0.00  PE  RECIFE                                              ADMINISTRACAO               
+191215   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+46771    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+168156   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+446102   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+446905   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+375826   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+400505   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+103825   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+289304   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+17482    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+330044   0.00  PR  CURITIBA                                            ADMINISTRACAO               
+179919   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+286995   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+376771   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+200707   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+312111   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+181742   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+425888   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+48163    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+276929   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+130911   0.00  PR  CURITIBA                                            ADMINISTRACAO               
+93169    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+314555   0.00  PR  CURITIBA                                            ADMINISTRACAO               
+24106    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+140708   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+226231   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+57324    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+385026   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+231764   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+61544    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+103160   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+466064   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+283295   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+340438   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+144718   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+127326   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+468267   0.00  PR  CURITIBA                                            ADMINISTRACAO               
+184508   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+29001    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+359793   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+141989   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+265302   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+430397   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+283649   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+9709     0.00  PR  LONDRINA                                            ADMINISTRACAO               
+11327    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+470990   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+206581   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+374893   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+109012   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+204803   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+91130    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+337849   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+98672    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+305837   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+273968   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+202929   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+94945    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+470311   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+12427    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+350210   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+45496    0.00  MG  VICOSA                                              ADMINISTRACAO               
+321961   0.00  MG  VICOSA                                              ADMINISTRACAO               
+187111   0.00  MG  VICOSA                                              ADMINISTRACAO               
+110621   0.00  MG  VICOSA                                              ADMINISTRACAO               
+112194   0.00  MG  VICOSA                                              ADMINISTRACAO               
+90529    0.00  PI  TERESINA                                            ADMINISTRACAO               
+255664   0.00  PI  TERESINA                                            ADMINISTRACAO               
+386574   0.00  PI  PARNAIBA                                            ADMINISTRACAO               
+415030   0.00  PI  TERESINA                                            ADMINISTRACAO               
+384614   0.00  PI  TERESINA                                            ADMINISTRACAO               
+115970   0.00  PI  PARNAIBA                                            ADMINISTRACAO               
+99183    0.00  PI  PARNAIBA                                            ADMINISTRACAO               
+219752   0.00  PI  PARNAIBA                                            ADMINISTRACAO               
+351682   0.00  AM  MANAUS                                              ADMINISTRACAO               
+273076   0.00  AM  MANAUS                                              ADMINISTRACAO               
+1486     0.00  AM  MANAUS                                              ADMINISTRACAO               
+195746   0.00  AM  MANAUS                                              ADMINISTRACAO               
+295848   0.00  AM  MANAUS                                              ADMINISTRACAO               
+273019   0.00  AM  MANAUS                                              ADMINISTRACAO               
+352323   0.00  AM  MANAUS                                              ADMINISTRACAO               
+259826   0.00  AM  MANAUS                                              ADMINISTRACAO               
+18874    0.00  AM  MANAUS                                              ADMINISTRACAO               
+30293    0.00  AM  MANAUS                                              ADMINISTRACAO               
+21239    0.00  AM  MANAUS                                              ADMINISTRACAO               
+159186   0.00  AM  MANAUS                                              ADMINISTRACAO               
+136049   0.00  AM  MANAUS                                              ADMINISTRACAO               
+78506    0.00  AM  MANAUS                                              ADMINISTRACAO               
+370976   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+461082   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+417534   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+230537   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+367644   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+32997    0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+435753   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+283054   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+22952    0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+453078   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+34050    0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+369658   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+339589   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+84421    0.00  DF  BRASILIA                                            ADMINISTRACAO               
+119390   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+259213   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+161889   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+221890   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+454736   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+72808    0.00  DF  BRASILIA                                            ADMINISTRACAO               
+144473   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+47497    0.00  DF  BRASILIA                                            ADMINISTRACAO               
+239419   0.00  MT  CUIABA                                              ADMINISTRACAO               
+57202    0.00  MT  AGUA BOA                                            ADMINISTRACAO               
+207334   0.00  MT  CUIABA                                              ADMINISTRACAO               
+423855   0.00  MT  CUIABA                                              ADMINISTRACAO               
+370724   0.00  MT  CUIABA                                              ADMINISTRACAO               
+151750   0.00  MT  PRIMAVERA DO LESTE                                  ADMINISTRACAO               
+59573    0.00  MT  CUIABA                                              ADMINISTRACAO               
+412790   0.00  MT  CUIABA                                              ADMINISTRACAO               
+64412    0.00  BA  ILHEUS                                              ADMINISTRACAO               
+19436    0.00  RS  NOVO HAMBURGO                                       ADMINISTRACAO               

@@ -1,0 +1,100 @@
+48163    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+130911   0.00  PR  CURITIBA                                            ADMINISTRACAO               
+314555   0.00  PR  CURITIBA                                            ADMINISTRACAO               
+24106    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+140708   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+226231   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+57324    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+385026   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+231764   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+61544    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+103160   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+466064   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+283295   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+340438   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+144718   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+127326   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+468267   0.00  PR  CURITIBA                                            ADMINISTRACAO               
+184508   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+29001    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+359793   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+141989   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+265302   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+430397   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+283649   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+9709     0.00  PR  LONDRINA                                            ADMINISTRACAO               
+11327    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+470990   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+206581   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+374893   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+109012   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+204803   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+91130    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+337849   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+98672    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+305837   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+273968   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+202929   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+94945    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+470311   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+12427    0.00  PR  LONDRINA                                            ADMINISTRACAO               
+350210   0.00  PR  LONDRINA                                            ADMINISTRACAO               
+45496    0.00  MG  VICOSA                                              ADMINISTRACAO               
+321961   0.00  MG  VICOSA                                              ADMINISTRACAO               
+187111   0.00  MG  VICOSA                                              ADMINISTRACAO               
+110621   0.00  MG  VICOSA                                              ADMINISTRACAO               
+115970   0.00  PI  PARNAIBA                                            ADMINISTRACAO               
+99183    0.00  PI  PARNAIBA                                            ADMINISTRACAO               
+384614   0.00  PI  TERESINA                                            ADMINISTRACAO               
+386574   0.00  PI  PARNAIBA                                            ADMINISTRACAO               
+415030   0.00  PI  TERESINA                                            ADMINISTRACAO               
+90529    0.00  PI  TERESINA                                            ADMINISTRACAO               
+112194   0.00  MG  VICOSA                                              ADMINISTRACAO               
+255664   0.00  PI  TERESINA                                            ADMINISTRACAO               
+219752   0.00  PI  PARNAIBA                                            ADMINISTRACAO               
+351682   0.00  AM  MANAUS                                              ADMINISTRACAO               
+273076   0.00  AM  MANAUS                                              ADMINISTRACAO               
+1486     0.00  AM  MANAUS                                              ADMINISTRACAO               
+195746   0.00  AM  MANAUS                                              ADMINISTRACAO               
+295848   0.00  AM  MANAUS                                              ADMINISTRACAO               
+273019   0.00  AM  MANAUS                                              ADMINISTRACAO               
+352323   0.00  AM  MANAUS                                              ADMINISTRACAO               
+259826   0.00  AM  MANAUS                                              ADMINISTRACAO               
+18874    0.00  AM  MANAUS                                              ADMINISTRACAO               
+30293    0.00  AM  MANAUS                                              ADMINISTRACAO               
+21239    0.00  AM  MANAUS                                              ADMINISTRACAO               
+159186   0.00  AM  MANAUS                                              ADMINISTRACAO               
+136049   0.00  AM  MANAUS                                              ADMINISTRACAO               
+78506    0.00  AM  MANAUS                                              ADMINISTRACAO               
+370976   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+461082   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+417534   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+230537   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+367644   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+32997    0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+435753   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+283054   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+22952    0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+453078   0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+34050    0.00  SE  SAO CRISTOVAO                                       ADMINISTRACAO               
+369658   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+339589   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+84421    0.00  DF  BRASILIA                                            ADMINISTRACAO               
+119390   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+259213   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+161889   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+221890   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+454736   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+72808    0.00  DF  BRASILIA                                            ADMINISTRACAO               
+144473   0.00  DF  BRASILIA                                            ADMINISTRACAO               
+47497    0.00  DF  BRASILIA                                            ADMINISTRACAO               
+239419   0.00  MT  CUIABA                                              ADMINISTRACAO               
+57202    0.00  MT  AGUA BOA                                            ADMINISTRACAO               
+207334   0.00  MT  CUIABA                                              ADMINISTRACAO               
+423855   0.00  MT  CUIABA                                              ADMINISTRACAO               
+370724   0.00  MT  CUIABA                                              ADMINISTRACAO               
+151750   0.00  MT  PRIMAVERA DO LESTE                                  ADMINISTRACAO               
+59573    0.00  MT  CUIABA                                              ADMINISTRACAO               
+412790   0.00  MT  CUIABA                                              ADMINISTRACAO               
+276929   0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
+93169    0.00  PR  SAO JOSE DOS PINHAIS                                ADMINISTRACAO               
